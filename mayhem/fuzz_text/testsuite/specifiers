@@ -1,0 +1,3 @@
+%v %q %t %N %i %J %K %L %C %f
+%{host} %{fps} %$ %{eventid}
+method=legacy,changes=on

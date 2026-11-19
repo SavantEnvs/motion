@@ -1,0 +1,3 @@
+Cam %Y-%m-%d {ver}
+%T D:%D
+method=legacy,scale=2
